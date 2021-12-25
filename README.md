@@ -23,3 +23,5 @@ My Tech Stack is
 
 
 <img height=30px src="https://img.stackshare.io/service/993/pUBY5pVj.png"/>
+<img height=30px src="https://img.stackshare.io/service/1028/ASOhU5xJ.png"/>
+<img height=30px src="https://img.stackshare.io/service/1031/redis.png"/>
