@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 
 I am passionate about deep learning. I want to be a good Machine Learning Engineer. I also like to develop end-to-end systems.
+
+My Tech Stack is
+
+https://img.stackshare.io/service/993/pUBY5pVj.png
