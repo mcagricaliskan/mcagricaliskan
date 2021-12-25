@@ -29,3 +29,5 @@ My Tech Stack is
 <img height=30px src="https://img.stackshare.io/service/1031/redis.png"/>
 <img height=30px src="https://img.stackshare.io/service/1030/leaf-360x360.png"/>
 </p>
+
+Planning to add Javascript, VueJS, ReactJS to this stack
