@@ -1,5 +1,5 @@
-### Hello there 👋
-# When i said that you need to say "General Kenobi"
+## Hello there 👋
+### When i said that you need to say "General Kenobi"
 <!--
 **mcagricaliskan/mcagricaliskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
