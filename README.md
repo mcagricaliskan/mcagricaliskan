@@ -21,4 +21,4 @@ I am passionate about deep learning. I want to be a good Machine Learning Engine
 
 My Tech Stack is
 
-<img source="https://img.stackshare.io/service/993/pUBY5pVj.png">
+<code><img src="https://img.stackshare.io/service/993/pUBY5pVj.png"></code>
