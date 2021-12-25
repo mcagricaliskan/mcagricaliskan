@@ -30,4 +30,4 @@ My Tech Stack is
 <img height=30px src="https://img.stackshare.io/service/1030/leaf-360x360.png"/>
 </p>
 
-Planning to add Javascript, VueJS, ReactJS to this stack
+Planning to add Javascript, VueJS, ReactJS to my stack
