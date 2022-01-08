@@ -31,4 +31,4 @@ My Tech Stack is
 <img height=30px alt="Mongodb" src="https://img.stackshare.io/service/1030/leaf-360x360.png"/>
 </p>
 
-Planning to add Javascript, VueJS, ReactJS to my stack
+Planning to add VueJS, ReactJS to my stack
