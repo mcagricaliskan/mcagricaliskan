@@ -32,3 +32,9 @@ My Tech Stack is
 </p>
 
 Planning to add VueJS, ReactJS to my stack
+
+
+Frameworks and Libraries i used
+
+- Python: Flask, FastAPI, Pandas, Numpy, psycopg2
+- Golang: Fashttp, Coly, pgx
