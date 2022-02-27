@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: mcagricaliskan@gmail.com
 
 
@@ -35,3 +35,5 @@ Frameworks and Libraries i used
 
 - Python: Flask, FastAPI, Pandas, Numpy, Keras, scikit-learn, psycopg2
 - Golang: Fashttp, Coly, pgx
+
+I am planning to learn ORM libraries for python and golang
