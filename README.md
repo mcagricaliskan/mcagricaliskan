@@ -31,9 +31,6 @@ My Tech Stack is
 <img height=30px alt="Mongodb" src="https://img.stackshare.io/service/1030/leaf-360x360.png"/>
 </p>
 
-Planning to add VueJS, ReactJS to my stack
-
-
 Frameworks and Libraries i used
 
 - Python: Flask, FastAPI, Pandas, Numpy, Keras, scikit-learn, psycopg2
