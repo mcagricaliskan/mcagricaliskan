@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Javascript and VueJs
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: mcagricaliskan@gmail.com
 
 
@@ -22,7 +22,7 @@ I am passionate about deep learning. I want to be a good Machine Learning Engine
 My Tech Stack is
 
 <p>
-<img height=30px alt="Pythoj" src="https://img.stackshare.io/service/993/pUBY5pVj.png"/>
+<img height=30px alt="Python" src="https://img.stackshare.io/service/993/pUBY5pVj.png"/>
 <img height=30px alt="Golang" src="https://img.stackshare.io/service/1005/O6AczwfV_400x400.png"/>
 <img height=30px alt="Javascript" src="https://img.stackshare.io/service/1209/javascript.jpeg"/>
 <img height=30px alt="Docker" src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png"/>
