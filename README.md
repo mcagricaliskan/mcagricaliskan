@@ -34,6 +34,6 @@ My Tech Stack is
 Frameworks and Libraries i used
 
 - Python: Flask, FastAPI, Pandas, Numpy, Keras, scikit-learn, psycopg2
-- Golang: Fashttp, Coly, pgx, gofiber
+- Golang: Fashttp, Coly, pgx, fiber
 
 I am planning to learn ORM libraries for python and golang
