@@ -35,5 +35,6 @@ Frameworks and Libraries i used
 
 - Python: Flask, FastAPI, Pandas, Numpy, Keras, scikit-learn, psycopg2
 - Golang: Fashttp, Coly, pgx, fiber
+- Javacript: ReactJS
 
 I am planning to learn ORM libraries for python and golang
