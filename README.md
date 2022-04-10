@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS (Very slowly 😥)
 - 📫 How to reach me: mcagricaliskan@gmail.com
 
 
