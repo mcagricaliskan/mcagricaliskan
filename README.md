@@ -38,9 +38,3 @@ Frameworks and Libraries i used
 - Javacript: ReactJS
 
 I am planning to learn ORM libraries for python and golang
-
-
-#@TODO
-# - add "my projects"
-# - add which project i m working on rn
-# - add which courses i m following rn
