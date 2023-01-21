@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mcagricaliskan@gmail.com
 
 
-I am passionate about deep learning. I want to be a good Machine Learning Engineer. I also like to develop end-to-end systems.
+I am passionate about deep learning. I want to be a good Machine Learning Engineer. Also i like to develop end-to-end systems.
 
 My Tech Stack is
 
