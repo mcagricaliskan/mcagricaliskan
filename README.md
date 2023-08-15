@@ -11,13 +11,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning ReactJS (Very slowly 😥)
 -->
 
-- 🌱 I’m currently learning ReactJS (Very slowly 😥)
+
 - 📫 How to reach me: mcagricaliskan@gmail.com
 
 
-I am passionate about deep learning. I want to be a good Machine Learning Engineer. Also i like to develop end-to-end systems.
+I am passionate about developing end-to-end projects and also deep learning.
 
 My Tech Stack is
 
