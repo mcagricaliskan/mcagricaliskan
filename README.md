@@ -33,7 +33,8 @@ My Tech Stack is
 
 Frameworks and Libraries i used
 
-- Python: FastAPI, Flask, Pandas, Numpy, Keras, Pytorch, scikit-learn, psycopg2, SQLModel, Alembic
 - Golang: GoFiber, Fashttp, coly, pgx, redsync 
-- Javacript: ReactJS
+- Python: FastAPI, Flask, Pandas, Numpy, Keras, Pytorch, scikit-learn, psycopg2, SQLModel
 - Docker & Kubernetes: nvidia-docker, docker-compose, rancher
+- Javacript: ReactJS (beginner)
+
