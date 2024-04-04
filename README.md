@@ -1,22 +1,6 @@
 ### Hello there 👋
 
-<!--
-**mcagricaliskan/mcagricaliskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently learning ReactJS (Very slowly 😥)
--->
-
-
-- 📫 How to reach me: mcagricaliskan@gmail.com
-
+📫 How to reach me: mcagricaliskan@gmail.com
 
 I am passionate about developing end-to-end projects and also deep learning.
 
@@ -36,6 +20,6 @@ Frameworks and Libraries i used
 
 - Golang: GoFiber, Fashttp, coly, pgx, redsync 
 - Python: FastAPI, Flask, Pandas, Numpy, Keras, Pytorch, scikit-learn, psycopg2, SQLModel
-- Docker & Kubernetes: nvidia-docker, docker-compose, rancher
+- Docker & Kubernetes: nvidia-docker, docker-compose, rancher, kubectl
 - Javacript: ReactJS (beginner)
 
