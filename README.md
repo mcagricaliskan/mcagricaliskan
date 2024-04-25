@@ -9,6 +9,7 @@ My Tech Stack is
 <p>
 <img height=30px alt="Golang" src="https://img.stackshare.io/service/1005/O6AczwfV_400x400.png"/>
 <img height=30px alt="Python" src="https://img.stackshare.io/service/993/pUBY5pVj.png"/>
+<img height=30px alt="Typescript" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg"/>
 <img height=30px alt="Javascript" src="https://img.stackshare.io/service/1209/javascript.jpeg"/>
 <img height=30px alt="React" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
 <img height=30px alt="Docker" src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png"/>
