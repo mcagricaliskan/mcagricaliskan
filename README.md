@@ -1,10 +1,8 @@
 ### Hello there 👋
 
-Cagri Caliskan - Full Stack ML Engineer
+I am Cagri Caliskan and I work as Full-Stack ML Engineer. I am passionate about developing end-to-end projects and also deep learning. 
 
 📫 How to reach me: mcagricaliskan@gmail.com
-
-I am passionate about developing end-to-end projects and also deep learning.
 
 My Tech Stack:
 
