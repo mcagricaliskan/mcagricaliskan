@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+Cagri Caliskan - Full Stack ML Engineer
+
 📫 How to reach me: mcagricaliskan@gmail.com
 
 I am passionate about developing end-to-end projects and also deep learning.
@@ -19,10 +21,10 @@ My Tech Stack:
 <img height=30px alt="MongoDB" src="https://img.stackshare.io/service/1030/leaf-360x360.png"/>
 </p>
 
-Frameworks and Libraries i used
+Frameworks and Libraries I use:
 
-- Golang: GoFiber, Fashttp, coly, pgx, redsync 
-- Python: FastAPI, Flask, Pandas, Numpy, Keras, Pytorch, scikit-learn, psycopg2, SQLModel
-- Docker & Kubernetes: nvidia-docker, docker-compose, rancher, kubectl
-- Javacript: ReactJS (beginner)
+- Golang: GoFiber, Fashttp, coly, pgx, redsync
+- Python: FastAPI, Flask, Pandas, Numpy, Keras, Pytorch, scikit-learn, psycopg2, SQLModel, asyncpg
+- Docker & Kubernetes: nvidia-docker, docker-compose, rancher, kubectl, portainer
+- Javacript & Typescript: ReactJS & Nextjs (beginner)
 
