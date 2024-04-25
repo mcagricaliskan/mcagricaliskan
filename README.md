@@ -4,7 +4,7 @@
 
 I am passionate about developing end-to-end projects and also deep learning.
 
-My Tech Stack is
+My Tech Stack:
 
 <p>
 <img height=30px alt="Golang" src="https://img.stackshare.io/service/1005/O6AczwfV_400x400.png"/>
