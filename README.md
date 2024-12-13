@@ -9,22 +9,22 @@ I am Cagri Caliskan, a Full-Stack Engineer with a strong passion for artificial 
 #### My Tech Stack  
 
 ##### Languages:  
-Golang <br>  
-Python <br>  
-TypeScript <br>  
-JavaScript  
+- Golang  
+- Python  
+- TypeScript  
+- JavaScript  
 
 ##### Frameworks and Libraries:  
-**Backend:** GoFiber, Fasthttp, FastAPI, Flask <br>  
-**Data Science & Machine Learning:** Pandas, Numpy, PyTorch, Scikit-learn, Keras <br>  
-**Frontend:** ReactJS, Next.js  
+- **Backend:** GoFiber, Fasthttp, FastAPI, Flask  
+- **Data Science & Machine Learning:** Pandas, Numpy, PyTorch, Scikit-learn, Keras  
+- **Frontend:** ReactJS, Next.js  
 
 ##### Databases:  
-PostgreSQL <br>  
-Redis <br>  
-MongoDB  
+- PostgreSQL  
+- Redis  
+- MongoDB  
 
 ##### DevOps & Tools:  
-Docker (including GPU support with nvidia-docker) <br>  
-Kubernetes <br>  
-Rancher, kubectl, Portainer  
+- Docker (including GPU support with nvidia-docker)  
+- Kubernetes  
+- Rancher, kubectl, Portainer  
