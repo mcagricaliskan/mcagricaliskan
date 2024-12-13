@@ -8,7 +8,7 @@ My Tech Stack:
 
 <p>
 <img height=30px alt="Golang" src="https://img.stackshare.io/service/1005/O6AczwfV_400x400.png"/>
-<img height=30px alt="Python" src="[https://img.stackshare.io/service/993/pUBY5pVj.png](https://i.imgur.com/qPuU4nS.jpeg"/>
+<img height=30px alt="Python" src="https://i.imgur.com/qPuU4nS.jpeg"/>
 <img height=30px alt="Typescript" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg"/>
 <img height=30px alt="Javascript" src="https://img.stackshare.io/service/1209/javascript.jpeg"/> <br>
 <img height=30px alt="React" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
